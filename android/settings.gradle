@@ -1,0 +1,3 @@
+rootProject.name = 'moving_pictures_1557'
+
+include ':app'
